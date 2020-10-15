@@ -1,5 +1,5 @@
 <h2> Hello! I'm Thomas. <img src="https://github.com/Traineau/Traineau/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/Traineau/Traineau/blob/main/web-developer.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/Traineau/Traineau/blob/main/web-developer.gif" width="400"/>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -23,8 +23,6 @@
 - 🌱 &nbsp; Enthusiast in cyber Security and DevOps problematics.
 - 🎸 &nbsp; Musician and guitar player. 
 - 🎮 &nbsp; Video Gamer, [WoW player](https://raider.io/characters/eu/hyjal/Tynynd%C3%ACl) and Guild Master
-
-<img align="right" alt="GIF" src="https://github.com/Traineau/Traineau/blob/main/web-developer.gif" width="500"/>
 
 <br>
 
