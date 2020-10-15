@@ -1,5 +1,5 @@
-<h2> Hello! I'm Thomas. <img src="https://github.com/Traineau/Traineau/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Traineau/Traineau/master/web-developer.gif" width="500"/>
+<h2> Hello! I'm Thomas. <img src="https://github.com/Traineau/Traineau/blob/main/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://github.com/Traineau/Traineau/blob/main/web-developer.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
