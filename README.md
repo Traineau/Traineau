@@ -10,7 +10,9 @@
 - 🖥 &nbsp; Figma | Photoshop | Illustrator
 - 👜 &nbsp; E-commerce and PrestaShop expertise.
 
-<img align="left" alt="GIF" src="https://github.com/Traineau/Traineau/blob/main/musician.gif" width="500"/>
+<br><br><br><br>
+
+<img align="left" alt="GIF" src="https://github.com/Traineau/Traineau/blob/main/musician.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
